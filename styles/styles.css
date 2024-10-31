@@ -76,6 +76,7 @@ nav li a {
 	font-weight: 100;
 	font-size: 1.125em;
 	color: #fff;
+	text-transform: uppercase;
 }
 
 .title-section {
@@ -240,6 +241,7 @@ footer p {
 		font-weight: 100;
 		font-size: 1.125em;
 		color: rgb(123, 34, 31);
+		text-transform: uppercase;
 	}
 
 	.title-section h1 {
